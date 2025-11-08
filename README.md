@@ -3,8 +3,14 @@
 A stunning and fully responsive **React + Tailwind CSS** product showcase page for the **Vivo V60e smartphone**.  
 It highlights the phone’s design, features, gallery, and specifications with smooth **Framer Motion** animations and gradient effects.
 
+---
 
-## 🖼️ Project Preview
+## 🌟 Live Preview
+
+> 🚀 _Experience the page:_  
+> [Vivo V60e Product Page Demo](https://vivo-v60e.vercel.app/)
+
+---
 
 ### 🔹 Hero Section
 ![Hero Section](https://in-exstatic-vivofs.vivo.com/gdHFRinHEMrj3yPG/product/1760169120379/zip/img/wap/vivo-v60-launch.png.webp)
